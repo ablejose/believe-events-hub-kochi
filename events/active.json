@@ -1,0 +1,59 @@
+{
+  "slug": "believe-events-hub-kochi",
+  "name": "Believe Events Hub",
+  "shortName": "Believe Events Hub",
+  "descriptor": "Event Management",
+  "address": "Maveli House, S Janatha Rd, Janatha Nagar, Kathrikadavu, Palarivattom, Kochi, Keralam 682025",
+  "area": "Palarivattom",
+  "city": "Kochi",
+  "district": "Ernakulam",
+  "region": "Kerala",
+  "postalCode": "682025",
+  "geo": {
+    "lat": 9.9938582,
+    "lng": 76.3040244
+  },
+  "mapsLink": "https://maps.google.com/?cid=3792604267130963977",
+  "phone": "+91 95449 69699",
+  "whatsapp": "919544969699",
+  "hours": "Open 12 am – 12 am · closed Sun, Tue, Wed, Thu, Fri, Sat",
+  "opens": "00:00",
+  "closes": "00:00",
+  "rating": 5,
+  "reviewCount": 14,
+  "reviews": [
+    {
+      "name": "akshara Anoy",
+      "rating": 5,
+      "quote": "The wedding reception at MCP Convention Centre was the highlight! The ‘Best Ceremony’ theme was executed perfectly with breathtaking stage decor, a stunning entrance, and a beautifully designed lobby. The pathway decor, lighting, and grand entry for the couple made the evening truly unforgettable."
+    },
+    {
+      "name": "MAJIDA C K",
+      "rating": 5,
+      "quote": "Thank you, Believe Events Hub! You made our wedding amazing. I highly recommend Believe Events Hub for anyone looking for a reliable and experienced event management company."
+    },
+    {
+      "name": "ALANROY 05",
+      "rating": 5,
+      "quote": "Believe events team went above and beyond to make our event a success. Their attention to detail and creativity are unmatched. Highly recommend!\""
+    },
+    {
+      "name": "Jessy",
+      "rating": 5,
+      "quote": "Exceptional service from start to finish! Believe events team truly understands how to create an unforgettable experience. 10/10 would recommend!\" -"
+    },
+    {
+      "name": "Abdul Gafoor",
+      "rating": 5,
+      "quote": "extremely professional Event cordination . All my friends and relatives left positive feedback on the arrangements. Thank you so much Believe event hub for the wonderful support and coordination. Much Appreciated !"
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://believe-events-hub-kochi.vercel.app"
+}
